@@ -1,6 +1,21 @@
 name: Ahmad Sheikhzada
 description: Physics Ph.D., Research Scientist
 
-<!-- avatar: https://github.com/ahmadsheikhzada/ahmadsheikhzada.github.io/tree/master/images/my_image.jpg--/>
+#<!-- avatar: https://github.com/ahmadsheikhzada/ahmadsheikhzada.github.io/tree/master/images/my_image.jpg--/>
 
 theme: jekyll-theme-cayman
+
+ooter-links:
+  dribbble:
+  email: sheikhzada.ahmad@gmail.com
+  facebook:
+  flickr:
+  github: ahmadsheikhzada
+  instagram:
+  linkedin: ahmadsheikhzada
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: ah_sheikhzada
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
